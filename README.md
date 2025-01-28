@@ -13,4 +13,3 @@ Bachelor student of Computer Engineering in Politecnico di Torino, who tries to 
 - C++
 - Java 
 - Javascript
-- Go

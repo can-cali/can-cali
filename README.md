@@ -1,67 +1,125 @@
-# 👋 Hello, I'm Can Cali
+# Hi, I'm Can 👋
 
-🎓 **Computer Engineering Graduate** from Politecnico di Torino  
-💻 Passionate about building impactful software solutions  
-🌍 Aiming to contribute to society through technology
+**Software Engineer focused on backend systems, embedded software, and engineering applications.**
 
----
+I am a Computer Engineering graduate from **Politecnico di Torino**, based in Turin, Italy.
 
-## 🚀 About Me
+My experience includes backend development, API integration, embedded systems, RISC-V technologies, autonomous-vehicle simulation, and engineering software. I enjoy building software that interacts with real systems, processes complex data, and solves practical problems.
 
-I'm an enthusiastic developer with a strong foundation in computer engineering. My interests lie in:
+## About Me
 
-- **Backend Development**: Crafting robust and scalable server-side applications.
-- **Mobile Development**: Creating intuitive and responsive mobile experiences.
-- **Low-Level Programming**: Exploring system-level programming for performance optimization.
+* 💻 Former **Backend Developer at AIESEC Italia**
+* 🧠 Software Team member at **SemiTO-V**, working on RISC-V-based technologies
+* 🏎️ Former Vehicle Model Engineer at **Squadra Corse Driverless**
+* 🚀 Former Engine Cycle Software Engineer at **PoliTO Rocket Team**
+* 🎓 BSc in Computer Engineering from Politecnico di Torino
+* 📍 Based in Turin, Italy
+* 🔎 Open to graduate and junior opportunities in backend, systems, embedded, and general software engineering
 
-I enjoy tackling real-world problems and continuously seek opportunities to learn and grow in the ever-evolving tech landscape.
+## Technical Skills
 
----
+### Languages
 
-## 🛠️ Technical Skills
+`Python` · `C` · `C++` · `SQL` · `JavaScript`
 
-- **Languages**: Python, C, C++, Java, JavaScript, TypeScript
-- **Frameworks & Tools**: Django, Git, NodeJS, SpringBoot, CherryPy, REST
-- **Databases**: SQLite, MySQL, PostgreSQL
-- **Others**: Docker
+### Backend and Web
 
----
+`Django` · `FastAPI` · `GraphQL` · `REST APIs` · `HTML` · `CSS`
 
-## 📌 Featured Projects
+### Systems and Embedded
 
-Here are some of the projects I've worked on:
+`Arduino` · `Embedded Systems` · `RISC-V` · `Sensor Integration` · `PWM` · `Interrupts`
 
-### 🕹️ Asteroids
-A Python-based recreation of the classic arcade game "Asteroids." This project helped me understand game physics and user input handling.
-[Repository Link](https://github.com/can-cali/asteroids)
+### Tools and Technologies
 
-### ♟️ Chess
-Developed a command-line chess game in Python, focusing on implementing game rules and logic.
-[Repository Link](https://github.com/can-cali/chess)
+`Git` · `GitHub` · `Linux` · `FFmpeg` · `SQLite` · `MATLAB` · `Simulink`
 
-### 🌐 Django Project
-A web application built using Django, following a tutorial with plans for further enhancements to add unique features and functionalities.
-[Repository Link](https://github.com/can-cali/django_project)
+## Featured Projects
 
-### 🧭 Maze Solver
-Implemented algorithms to solve mazes efficiently, enhancing my problem-solving and algorithmic thinking skills.
-[Repository Link](https://github.com/can-cali/maze_solver)
+### 🎬 Multimedia Processing and Streaming Platform
 
-*Feel free to explore these repositories to see my coding style and approach.*
+A web-based platform that allows users to upload audio and video files, apply configurable processing filters, and stream the processed output directly in the browser.
 
----
+**Highlights**
 
-## 📈 GitHub Stats
+* Developed the backend using FastAPI
+* Integrated FFmpeg for video and audio processing
+* Implemented filters including grayscale, color inversion, frame interpolation, and upscaling
+* Added browser-based streaming of processed media
+* Built custom processing workflows using Python, librosa, SciPy, and SoundFile
 
-![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=can-cali&show_icons=true&theme=radical)
+**Technologies:** Python, FastAPI, FFmpeg, JavaScript, HTML, CSS
+
+[View repository](https://github.com/can-cali/music-multimedia-streaming)
 
 ---
 
-## 📫 Let's Connect
+### 🏠 Embedded Smart-Room Controller
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech:
+An Arduino-based embedded control system that monitors room conditions and automatically manages heating, cooling, occupancy, and user interaction.
 
-- 📧 Email: [can.cali@hotmail.com](mailto:can.cali@hotmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/cancali/](https://www.linkedin.com/in/cancali)
+**Highlights**
 
-*Feel free to reach out!*
+* Combined motion, sound, temperature, and IMU sensor data
+* Implemented occupancy detection and climate-control logic
+* Controlled fan and heater outputs using PWM
+* Used hardware interrupts and timers for real-time events
+* Added configurable thresholds through serial commands
+* Displayed system status through an LCD interface
+
+**Technologies:** C++, Arduino, Embedded Systems, Sensors, PWM, Interrupts
+
+[View repository]([https://github.com/can-cali/iot-project](https://github.com/can-cali/iot-smart-home-platform))
+
+## Engineering Experience
+
+### SemiTO-V — Software Team
+
+Researching potential implementations of internally developed RISC-V-powered technologies, including microcontroller applications.
+
+### AIESEC Italia — Backend Developer
+
+Developed and maintained backend functionality for an information system used to support campaign tracking and collaboration across Italy.
+
+Worked with:
+
+* Python
+* Django
+* GraphQL
+* API integration
+* Backend data management
+
+### Squadra Corse Driverless — Vehicle Model Engineer
+
+Transferred real vehicle-model data into a simulation environment used to evaluate driverless performance.
+
+Developed automated validation tests to compare simulated behaviour with data collected during physical testing sessions.
+
+### PoliTO Rocket Team — Engine Cycle Software Engineer
+
+Contributed to the development and maintenance of a Python desktop application used for rocket-engine cycle simulation.
+
+## What I Am Interested In
+
+I am particularly interested in:
+
+* Backend architecture and API development
+* Embedded and systems programming
+* Developer tools and automation
+* Engineering simulation software
+* RISC-V and low-level technologies
+* Software that connects physical systems with digital platforms
+
+## Currently Improving
+
+* Building production-oriented backend applications
+* Writing more comprehensive automated tests
+* Improving software architecture and documentation
+* Expanding my knowledge of deployment, Docker, and CI/CD
+* Developing cleaner and more maintainable embedded systems
+
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/cancali](https://www.linkedin.com/in/cancali/)
+* **Email:** [can.cali@hotmail.com](mailto:can.cali@hotmail.com)
+* **GitHub:** [github.com/can-cali](https://github.com/can-cali)

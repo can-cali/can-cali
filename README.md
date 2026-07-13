@@ -69,7 +69,7 @@ An Arduino-based embedded control system that monitors room conditions and autom
 
 **Technologies:** C++, Arduino, Embedded Systems, Sensors, PWM, Interrupts
 
-[View repository]([https://github.com/can-cali/iot-project](https://github.com/can-cali/iot-smart-home-platform))
+[View repository](https://github.com/can-cali/iot-smart-home-platform)
 
 ## Engineering Experience
 

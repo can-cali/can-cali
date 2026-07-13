@@ -9,7 +9,7 @@ My experience includes backend development, API integration, embedded systems, R
 ## About Me
 
 * 💻 Former **Backend Developer at AIESEC Italia**
-* 🧠 Software Team member at **SemiTO-V**, working on RISC-V-based technologies
+* 🧠 Former Software Team member at **SemiTO-V**
 * 🏎️ Former Vehicle Model Engineer at **Squadra Corse Driverless**
 * 🚀 Former Engine Cycle Software Engineer at **PoliTO Rocket Team**
 * 🎓 BSc in Computer Engineering from Politecnico di Torino

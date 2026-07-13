@@ -14,7 +14,7 @@ My experience includes backend development, API integration, embedded systems, R
 * 🚀 Former Engine Cycle Software Engineer at **PoliTO Rocket Team**
 * 🎓 BSc in Computer Engineering from Politecnico di Torino
 * 📍 Based in Turin, Italy
-* 🔎 Open to graduate and junior opportunities in backend, systems, embedded, and general software engineering
+* 🔎 Open to graduate and junior opportunities in backend, systems, embedded, general software engineering and cybersecurity.
 
 ## Technical Skills
 

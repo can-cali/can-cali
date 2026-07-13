@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Can Cali
 
-🎓 **Computer Engineering Student** at Politecnico di Torino  
+🎓 **Computer Engineering Graduate** from Politecnico di Torino  
 💻 Passionate about building impactful software solutions  
 🌍 Aiming to contribute to society through technology
 
@@ -21,7 +21,7 @@ I enjoy tackling real-world problems and continuously seek opportunities to lear
 ## 🛠️ Technical Skills
 
 - **Languages**: Python, C, C++, Java, JavaScript, TypeScript
-- **Frameworks & Tools**: Django, Git, NodeJS, SpringBoot
+- **Frameworks & Tools**: Django, Git, NodeJS, SpringBoot, CherryPy, REST
 - **Databases**: SQLite, MySQL, PostgreSQL
 - **Others**: Docker
 

@@ -8,11 +8,11 @@ My experience includes backend development, API integration, embedded systems, R
 
 ## About Me
 
+* 🎓 Graduate of BSc Computer Engineering from Politecnico di Torino
 * 💻 Former **Backend Developer at AIESEC Italia**
 * 🧠 Former Software Team member at **SemiTO-V**
 * 🏎️ Former Vehicle Model Engineer at **Squadra Corse Driverless**
 * 🚀 Former Engine Cycle Software Engineer at **PoliTO Rocket Team**
-* 🎓 BSc in Computer Engineering from Politecnico di Torino
 * 📍 Based in Turin, Italy
 * 🔎 Open to graduate and junior opportunities in backend, systems, embedded, general software engineering and cybersecurity.
 
